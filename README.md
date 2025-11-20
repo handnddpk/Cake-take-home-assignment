@@ -320,7 +320,7 @@ The test environment includes:
 
 ## 📝 Disclaimer
 
-This project was developed with AI assistance (GitHub Copilot) for documentation and code writing. However, all AI-generated content has been thoroughly reviewed, understood, and validated by me. I take full responsibility for the implementation and is fully aware of all code and documentation decisions made in this project.
+This project was developed with AI assistance (GitHub Copilot) for documentation and code writing. However, all AI-generated content has been thoroughly reviewed, understood, and validated by me. I take full responsibility for the implementation and am fully aware of all code and documentation decisions made in this project.
 
 ## 📄 License
 
